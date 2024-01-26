@@ -1,0 +1,9 @@
+C:\ASP-siti\baru\tgs-jamur\bin\tgs-jamur.dll
+C:\ASP-siti\baru\tgs-jamur\bin\tgs-jamur.pdb
+C:\ASP-siti\baru\tgs-jamur\bin\tgs-jamur.xml
+C:\ASP-siti\baru\tgs-jamur\obj\Debug\ResolveAssemblyReference.cache
+C:\ASP-siti\baru\tgs-jamur\obj\Debug\tgs_jamur.Resources.resources
+C:\ASP-siti\baru\tgs-jamur\obj\Debug\tgs-jamur.vbproj.GenerateResource.Cache
+C:\ASP-siti\baru\tgs-jamur\obj\Debug\tgs-jamur.dll
+C:\ASP-siti\baru\tgs-jamur\obj\Debug\tgs-jamur.xml
+C:\ASP-siti\baru\tgs-jamur\obj\Debug\tgs-jamur.pdb
